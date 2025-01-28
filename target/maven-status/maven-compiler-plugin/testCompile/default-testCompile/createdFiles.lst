@@ -1,0 +1,6 @@
+hooks\MyHooks.class
+driverfactory\DriverFactory.class
+runner\MyRunner.class
+stepdefinitions\Search.class
+stepdefinitions\Register.class
+stepdefinitions\Login.class
